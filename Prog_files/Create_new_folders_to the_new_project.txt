@@ -1,0 +1,7 @@
+md "%Project_directory%\%N_Project%\%N_Project%\Покупные_изделия\"
+md "%Project_directory%\%N_Project%\%N_Project%\Стандартные_изделия\"
+md "%Project_directory%\%N_Project%\Документация\ТЗ\"
+md "%Project_directory%\%N_Project%\Документация\ТУ\"
+md "%Project_directory%\%N_Project%\Документация\КД\"
+md "%Project_directory%\%N_Project%\Документация\ЭД\"
+md "%Prog_workspace%\%N_Project%\"

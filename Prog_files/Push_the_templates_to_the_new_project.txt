@@ -1,0 +1,3 @@
+copy "Prog_files\templates\Project_Template.ipj" "%Project_directory%\%N_Project%\%N_Project%\%N_Project%.ipj"
+copy "Prog_files\templates\Main_assembling.iam" "%Project_directory%\%N_Project%\%N_Project%\%N_00_000_Project%.iam"
+copy "Prog_files\templates\Current_version.txt" "%Prog_workspace%\%N_Project%\Current_version.txt"

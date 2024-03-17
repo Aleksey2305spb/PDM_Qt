@@ -1,0 +1,1 @@
+xcopy /q /e /y "%Project_directory%\%N_Project%\" "%user_Project_directory%\%N_Project%\"

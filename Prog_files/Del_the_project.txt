@@ -1,0 +1,3 @@
+rd /s /q "%Project_directory%\%N_Project%\"
+rd /s /q "%user_Project_directory%\%N_Project%\"
+rd /s /q "%Prog_workspace%\%N_Project%\"
